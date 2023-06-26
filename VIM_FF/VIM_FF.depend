@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1687811162 source:c:\users\usuario\desktop\vim_ff\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pila.h"
+
+1490112217 c:\users\usuario\desktop\vim_ff\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112217 source:c:\users\usuario\desktop\vim_ff\pila.c
+	"pila.h"
+
